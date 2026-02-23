@@ -1,3 +1,2 @@
-"""
-Write your OutOfSampleError exception class in this file
-"""
+class OutOfSampleError(Exception):
+    pass
